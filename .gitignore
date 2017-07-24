@@ -3,3 +3,4 @@ node_modules
 private
 public/js
 build/stats/fileNames.json
+config.bat
